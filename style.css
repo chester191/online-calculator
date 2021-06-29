@@ -1,0 +1,60 @@
+
+h1 {
+  display: inline-block;
+  font-size: 40px;
+  margin-left: 650px;
+  margin-right: 650px;
+}
+
+
+.keypad{
+  width: 600px;
+  height: 600px;
+  margin-left: 500px;
+  display: grid;
+}
+.keypad-row{
+  width: 600px;
+  display: flex;
+  height: 100%;
+}
+
+.result {
+  height:100%;
+  width: 100%;
+  text-align: right;
+
+  background-color: black;
+  color:white;
+  
+  font-size: 80px;
+
+}
+
+
+.key {
+  height:100%;
+  font-size: 80px;
+  background-color: grey;
+  border: solid black 0.1px;
+  margin: 0;
+  top:0;
+  cursor: pointer;
+}
+.key:hover {
+  background-color: #ebebeb;
+}
+
+.key:active {
+  background-color: #bbbcbe;
+}
+.quarter{
+	width: 25%;
+}
+
+.half{
+	width: 50%;
+}
+.three-quarter{
+	width: 75%;
+}
