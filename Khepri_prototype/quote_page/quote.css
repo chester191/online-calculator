@@ -1,0 +1,80 @@
+body{
+  color: #42542C;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav-bar {
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+  margin-left: -10px;
+  margin-top: -10px;
+  padding-left: 165px;
+  border-style: inset;
+  box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.nav-bar a {
+  display: inline-block;
+  font-size: 22px;
+
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.nav-bar h1 {
+  display: inline-block;
+  font-size: 40px;
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-right: 300px;
+}
+
+.sub-heading {
+  width: 100%;
+  /* border: solid black; */
+}
+.sub-heading h2 {
+  display: inline-block;
+  font-size: 32px;
+  margin-left: 805px;
+  margin-top: 100px;
+}
+
+.sub-heading h3 {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: normal;
+  margin-left: 668px;
+}
+form{
+  display: grid;
+  grid-template-columns: auto;
+  margin-left: 650px;
+  width: 600px;
+}
+form input{
+  margin-top: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+form textarea{
+  margin-top: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.submit{
+  margin-top: 70px;
+  margin-left: 120px;
+	background-color: #42542C;
+	width: 247px;
+	height: 58px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+}

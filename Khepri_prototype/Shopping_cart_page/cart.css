@@ -1,0 +1,41 @@
+
+.cart{
+  margin-left: 400px;
+  margin-top: 200px;
+  display: grid;
+  grid-template-columns: auto;
+}
+.cart button{
+  margin-top: 90px;
+	background-color: #42542C;
+	width: 247px;
+	height: 58px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 200px;
+  border: none;
+}
+.cart .list{
+  grid-template-columns: auto;
+  width: 1000px;
+}
+.cart .list > table {
+  border: none;
+  width: 100%;  
+}
+td, th {
+  font-weight: normal;
+  text-align: left;
+  padding: 8px;
+}
+tr:first-child {
+  background-color:  #E2E8D4;
+}
+.quantity {
+  font-weight: bold;
+}
+.price {
+  font-weight: bold;
+}

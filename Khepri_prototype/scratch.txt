@@ -1,0 +1,167 @@
+<!--
+;; (defn home-page []
+;;   [:div ;subtitle-container
+;;    [:p ;subtitle
+;;     "Top bioconversion research and sustainable animal feed producers"]
+;;    [:a "See our products"]]
+
+;;   [:div ;homepage1
+;;    [:p "We combine principles and technologies from a multitude of spheres including: industrial entomology, engineering, agriculture and biotechnology.
+;;            By merging such diverse yet specialized expertise, together with fresh entrepreneurial ideas and commercial creativity, 
+;;            we strive to solve various problems in the agricultural, health and research sectors in an economically viable way."]
+;;    [:img ;background1
+;;     [:h2 ;Research
+;;      "Research"]
+;;     [:h3 ;res-subheading
+;;      "The research and patenting of indigenous knowledge solutions"]]]
+
+;;   [:div ;homepage2
+;;    [:h1 "Our services"]
+;;    [:p "We design, implement, and market modular insect bioconversion units for the production of insect based protein and fertilizer from organic waste."]
+;;    [:div ;services
+;;     [:img]
+;;     [:p]
+;;     [:img]
+;;     [:p]
+;;     [:img]
+;;     [:p]
+;;     [:img]
+;;     [:p]]
+
+;;    [:div ;more-info
+;;     [:a "Tell me more"]]]
+
+;;   [:div ;homepage3
+;;    [:h1 "Our partners"]
+;;    [:div ;partners grid
+;;     [:img]]
+;;    [:div ;partners grid
+;;     [:img]]
+;;    [:div ;award
+;;     [:p "Finalist in the Makers of More: Your Idea, Your Community, Your Action challenge! -2015"]]])
+
+
+;; (defn products []
+;;     [:div ;sub-heading
+;;      [:h2 "Our Products"]
+;;      [:h3 "Small write up about products"]]
+;;     [:div ;shop 
+;;      [:div ;filter
+;;       [:a "All"]
+;;       [:a "Live feed"]
+;;       [:a "Dried Insects"]
+;;       [:a "Full feed"]
+;;       [:a "Khepri Bioconversion Units"]]])
+;;      ;footer
+     
+;; (defn product-cell []
+;;   [:div ;product
+;;    [:img]
+;;    [:p "product"]])
+
+;; ;; (defn quote[]
+;; ;;   [:div ;sub-heading 
+;; ;;    [:h2 "Get a quote"]
+;; ;;    [:h3 "Fill in our quote form and we'll get back to you within 48 hours."]
+;; ;;    [:form 
+;; ;;     [:input {:type "text"
+;; ;;              :name "full-name"
+;; ;;              :placeholder "Full name"
+;; ;;              :value ""}]
+;; ;;     [:input {:type "text"
+;; ;;              :name "cellphone"
+;; ;;              :placeholder "Cellphone number"
+;; ;;              :value ""}]
+;; ;;     [:input {:type "email"
+;; ;;              :name "Email"
+;; ;;              :placeholder "Email address"
+;; ;;              :value ""}]
+;; ;;     [:textarea {:name "comment"
+;; ;;                 :placeholder "Leave a comment..."
+;; ;;                 :rows "8"
+;; ;;                 :cols "80"}]
+;; ;;     [:input {:class "submit"
+;; ;;              :type "submit"
+;; ;;              :value "Submit"}]]])
+
+;; ;; (defn contact []
+;; ;;   [:div ;sub-heading 
+;; ;;    [:h2 "Contact us"]
+;; ;;    [:h3 "Fill in our quote form and we'll get back to you within 48 hours."]
+;; ;;    [:form
+;; ;;     [:input {:type "text"
+;; ;;              :name "full-name"
+;; ;;              :placeholder "Full name"
+;; ;;              :value ""}]
+;; ;;     [:input {:type "email"
+;; ;;              :name "Email"
+;; ;;              :placeholder "Email address"
+;; ;;              :value ""}]
+;; ;;     [:input {:type "text"
+;; ;;              :name "Subject"
+;; ;;              :placeholder "Subject"
+;; ;;              :value ""}]
+;; ;;     [:textarea {:name "comment"
+;; ;;                 :placeholder "Type message here..."
+;; ;;                 :rows "8"
+;; ;;                 :cols "80"}]
+;; ;;     [:input {:class "submit"
+;; ;;              :type "submit"
+;; ;;              :value "Submit"}]]])
+    
+;; ;; (defn footer[]
+;; ;;   [:div ;contact
+;; ;;    [:p "Cell: +27 83 253 9431 Email: info@khepri.co.za"]
+;; ;;    [:img]
+;; ;;    [:p "Based in Gauteng, South Africa since 2012"]]
+;; ;;   [:div ;copyright
+;; ;;    [:p "Copyright © Khepri"]]) 
+
+
+
+
+
+    ;; [:div ;product2
+      ;;  [:img]
+      ;;  [:p "BSF Larvae 5DO (five day old)"]]
+      ;; [:div ;product3
+      ;;  [:img]
+      ;;  [:p "BSF Larvae (3rd Instar)"]]
+      ;; [:div ;product4
+      ;;  [:img]
+      ;;  [:p "BSF Pupae"]]
+      ;; [:div ;product5
+      ;;  [:img]
+      ;;  [:p "Dried Pupae"]]
+      ;; [:div ;product6
+      ;;  [:img]
+      ;;  [:p "Dried BSF larvae"]]
+      ;; [:div ;product7
+      ;;  [:img]
+      ;;  [:p "Khepri Meal "]]
+      ;; [:div ;product8
+      ;;  [:img]
+      ;;  [:p "Khepri Fat Free Meal"]]
+      ;; [:div ;product9
+      ;;  [:img]
+      ;;  [:p "Khepri Oil"]]
+      ;; [:div ;product10
+      ;;  [:img]
+      ;;  [:p "Khepri Chicken Starter Meal"]]
+      ;; [:div ;product11
+      ;;  [:img]
+      ;;  [:p "Khepri Pullet Grower Meal"]]
+      ;; [:div ;product12
+      ;;  [:img]
+      ;;  [:p "Khepri Chicken Finisher Meal"]]
+      ;; [:div ;product13
+      ;;  [:img]
+      ;;  [:p "Khepri Layer Meal"]]
+      ;; [:div ;product14
+      ;;  [:img]
+      ;;  [:p "Khepri Bioconversion Units"]]
+      ;; [:div ;product15
+      ;;  [:img]
+      ;;  [:p "House hold BSF Box (wood)"]]
+
+-->

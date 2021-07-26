@@ -1,0 +1,62 @@
+header{
+	font-family: "Open Sans";
+}
+body {
+	font-family: "Open Sans";
+}
+.bck{
+	z-index: -1;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0%;
+	left: 0%;
+}
+.title {
+	color: white;
+	font-style: bold;
+	font-size: 48px;
+	text-align: center;
+}
+.nav-bar {
+  color: #42542C;
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+  margin-left: -10px;
+  margin-top: -10px;
+  padding-left: 165px;
+  border-style: inset;
+  box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.nav-bar a {
+  display: inline-block;
+  font-size: 22px;
+
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.nav-bar h1 {
+  display: inline-block;
+  font-size: 40px;
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-right: 300px;
+}
+.thank-you-note {
+  display: grid;
+  grid-template-columns: auto;
+  text-align: center;
+  margin-top: 240px;
+  margin-left: 450px;
+  color: #42542C;
+  font-style: "Open Sans";
+  width: 900px;
+}
+.thank-you-note h2{
+  font-size: 40px;
+}
+.thank-you-note p{
+  font-size: 32px;
+}

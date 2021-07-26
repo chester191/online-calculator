@@ -1,0 +1,14 @@
+You can create a new branch like so:
+git checkout -b payfast-chester 
+
+12:13
+Add all your changes:
+git add -A 
+
+12:14
+Commit them
+git commit -m "create, query and list transactions"
+
+12:14
+Then push it.
+git push
